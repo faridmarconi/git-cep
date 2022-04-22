@@ -1,4 +1,4 @@
-// API DO GIT PARA OBTER USERS
+// API DO GIT ok PARA OBTER USERS
 
 
 var API_URL = "https://api.github.com/users/";
@@ -28,7 +28,7 @@ window.onload = async function() {
 
 
 
-// API VIACEP PARA PREENCHER RUA 
+// API VIACEP ok PARA PREENCHER RUA 
 
 
     const cep = document.querySelector('#cep')
